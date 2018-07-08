@@ -1,0 +1,4 @@
+org\bny\demo\StreamingJob.class
+org\bny\demo\flink\TwitterStreamingRunner.class
+org\bny\demo\mapper\SelectEnglishAndTokenizeFlatMap.class
+org\bny\demo\BatchJob.class
